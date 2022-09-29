@@ -7,10 +7,7 @@
 body {
     font-family: "Rajdhani", sans-serif;
     font-weight: 500;
-}
-
-header, main, footer {
-    width: 70%;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -50,7 +47,7 @@ section ol li {
 }
 
 footer ul {
-    padding: 75px 0;
+    padding: 70px 0;
     width: 280px;
     margin: 0 auto;
     list-style: none;
