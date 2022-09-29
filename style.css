@@ -5,7 +5,8 @@
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 500;
 }
 
 header, main, footer {
@@ -17,7 +18,7 @@ header {
     padding: 10px 0;
 }
 
-h1 {
+header h1 {
     font-size: 40px;
     color: red;
     margin-bottom: 7px;
